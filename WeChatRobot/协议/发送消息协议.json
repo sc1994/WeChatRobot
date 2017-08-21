@@ -1,0 +1,140 @@
+// /cgi-bin/mmwebwx-bin/webwxsendmsg
+//请求参数
+{
+    "BaseRequest": {
+        "Uin": 2656451315,
+        "Sid": "1+c/IA/aV+/+pWIM",
+        "Skey": "@crypt_dc473b8b_90bbbc6c365d5956d49ca20b326b0d23",
+        "DeviceID": "e115422929058964"
+    },
+    "Msg": {
+        "Type": 1,
+        "Content": "啊是的空间",
+        "FromUserName": "@ccd75692331c96c4fe926d5760d8d2d42d2079db8137a81331a1806332ca3f41",
+        "ToUserName": "@81660654b97e70959804ee1025f9d639a0ef4c959f693ada1e3831a0ad4e1845",
+        "LocalID": "14873093078960212",
+        "ClientMsgId": "14873093078960212"
+    },
+    "Scene": 0
+}{
+    "BaseRequest": {
+        "Uin": 2656451315,
+        "Sid": "ApT7k4fkHfheJCbA",
+        "Skey": "@crypt_dc473b8b_2d14f624d84f29a8cefc3efa2e18befa",
+        "DeviceID": "e115422929058964"
+    },
+    "Msg": {
+        "Type": 1,
+        "Content": "木法老佛爷",
+        "FromUserName": "@5320db35d00b526623579be7974ef6736df82e721992717c01724bd7e4d7abad",
+        "ToUserName": "@6746b944009be0830a0a6fa1b4587bae90ff5cb791002d8ac7efeab1b6183c20",
+        "LocalID": "14873233170567967",
+        "ClientMsgId": "14873233170567967"
+    },
+    "Scene": 0
+}
+// 响应参数
+{
+    "BaseResponse": {
+        "Ret": 0,
+        "ErrMsg": ""
+    },
+    "MsgID": "4854044014582212676",
+    "LocalID": "14873093078960212"
+}
+//随后发送这个  /cgi-bin/mmwebwx-bin/webwxsync?sid=1+c/IA/aV+/+pWIM&skey=@crypt_dc473b8b_90bbbc6c365d5956d49ca20b326b0d23
+//请求参数
+{
+    "BaseRequest": {
+        "Uin": 2656451315,
+        "Sid": "1+c/IA/aV+/+pWIM",
+        "Skey": "@crypt_dc473b8b_90bbbc6c365d5956d49ca20b326b0d23",
+        "DeviceID": "e980275624379401"
+    },
+    "SyncKey": {
+        "Count": 11,
+        "List": [
+            {
+                "Key": 1,
+                "Val": 665645480
+            } // ....
+        ]
+    },
+    "rr": -1250623818
+}
+//响应
+{
+    "BaseResponse": {
+        "Ret": 0,
+        "ErrMsg": ""
+    },
+    "AddMsgCount": 0,
+    "AddMsgList": [],
+    "ModContactCount": 0,
+    "ModContactList": [],
+    "DelContactCount": 0,
+    "DelContactList": [],
+    "ModChatRoomMemberCount": 0,
+    "ModChatRoomMemberList": [],
+    "Profile": {
+        "BitFlag": 0,
+        "UserName": {
+            "Buff": ""
+        },
+        "NickName": {
+            "Buff": ""
+        },
+        "BindUin": 0,
+        "BindEmail": {
+            "Buff": ""
+        },
+        "BindMobile": {
+            "Buff": ""
+        },
+        "Status": 0,
+        "Sex": 0,
+        "PersonalCard": 0,
+        "Alias": "",
+        "HeadImgUpdateFlag": 0,
+        "HeadImgUrl": "",
+        "Signature": ""
+    },
+    "ContinueFlag": 0,
+    "SyncKey": {
+        "Count": 11,
+        "List": [
+            {
+                "Key": 1,
+                "Val": 665645480
+            }
+        ]
+    },
+    "SKey": "",
+    "SyncCheckKey": {
+        "Count": 11,
+        "List": [
+            {
+                "Key": 1,
+                "Val": 665645480
+            }
+        ]
+    }
+}
+// 发送
+//FromUserName=@fb71c6ddfac68ffec2a313c6246f6ed70e60df1bf19ac2c74b2c60a16d3683f9
+//ToUserName=@50257496e4531c39bb16dbbbe5a20376e236967827eefecaaebf11d1019690c7
+//FromUserName=@50257496e4531c39bb16dbbbe5a20376e236967827eefecaaebf11d1019690c7
+//ToUserName=@fb71c6ddfac68ffec2a313c6246f6ed70e60df1bf19ac2c74b2c60a16d3683f9
+//ClientMsgId=1487325795706
+{
+    "BaseRequest": {
+        "Uin": 2656451315,
+        "Sid": "yGO+9ZFEeZ3rRxuO",
+        "Skey": "@crypt_dc473b8b_12e1a688fb69c140cd79b4f782adf976",
+        "DeviceID": "e988573261443554"
+    },
+    "Code": 1,
+    "FromUserName": "@50257496e4531c39bb16dbbbe5a20376e236967827eefecaaebf11d1019690c7",
+    "ToUserName": "@fb71c6ddfac68ffec2a313c6246f6ed70e60df1bf19ac2c74b2c60a16d3683f9",
+    "ClientMsgId": 1487325795706
+}

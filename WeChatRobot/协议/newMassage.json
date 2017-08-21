@@ -1,0 +1,365 @@
+// 响应
+{
+    "BaseResponse": {
+        "Ret": 0,
+        "ErrMsg": ""
+    },
+    "AddMsgCount": 1,
+    "AddMsgList": [
+        {
+            "MsgId": "8892697222669356470",
+            "FromUserName": "@382adb3076f38fbef7b15b00b340b64df519945494dd99209e8fb9dceb9d7e39",
+            "ToUserName": "@d316c41902154458a35f36fea315d3061799f81008ba51f881efbabdf6462170",
+            "MsgType": 1,
+            "Content": "洞房花烛电饭锅",
+            "Status": 3,
+            "ImgStatus": 1,
+            "CreateTime": 1487249983,
+            "VoiceLength": 0,
+            "PlayLength": 0,
+            "FileName": "",
+            "FileSize": "",
+            "MediaId": "",
+            "Url": "",
+            "AppMsgType": 0,
+            "StatusNotifyCode": 0,
+            "StatusNotifyUserName": "",
+            "RecommendInfo": {
+                "UserName": "",
+                "NickName": "",
+                "QQNum": 0,
+                "Province": "",
+                "City": "",
+                "Content": "",
+                "Signature": "",
+                "Alias": "",
+                "Scene": 0,
+                "VerifyFlag": 0,
+                "AttrStatus": 0,
+                "Sex": 0,
+                "Ticket": "",
+                "OpCode": 0
+            },
+            "ForwardFlag": 0,
+            "AppInfo": {
+                "AppID": "",
+                "Type": 0
+            },
+            "HasProductId": 0,
+            "Ticket": "",
+            "ImgHeight": 0,
+            "ImgWidth": 0,
+            "SubMsgType": 0,
+            "NewMsgId": 8892697222669356470,
+            "OriContent": ""
+        }
+    ],
+    "ModContactCount": 0,
+    "ModContactList": [],
+    "DelContactCount": 0,
+    "DelContactList": [],
+    "ModChatRoomMemberCount": 0,
+    "ModChatRoomMemberList": [],
+    "Profile": {
+        "BitFlag": 0,
+        "UserName": {
+            "Buff": ""
+        },
+        "NickName": {
+            "Buff": ""
+        },
+        "BindUin": 0,
+        "BindEmail": {
+            "Buff": ""
+        },
+        "BindMobile": {
+            "Buff": ""
+        },
+        "Status": 0,
+        "Sex": 0,
+        "PersonalCard": 0,
+        "Alias": "",
+        "HeadImgUpdateFlag": 0,
+        "HeadImgUrl": "",
+        "Signature": ""
+    },
+    "ContinueFlag": 0,
+    "SyncKey": {
+        "Count": 11,
+        "List": [
+            {
+                "Key": 1,
+                "Val": 665645225
+            },
+            {
+                "Key": 2,
+                "Val": 665645306
+            },
+            {
+                "Key": 3,
+                "Val": 665645047
+            },
+            {
+                "Key": 11,
+                "Val": 665644505
+            },
+            {
+                "Key": 13,
+                "Val": 665620205
+            },
+            {
+                "Key": 201,
+                "Val": 1487249983
+            },
+            {
+                "Key": 1000,
+                "Val": 1487239562
+            },
+            {
+                "Key": 1001,
+                "Val": 1487239592
+            },
+            {
+                "Key": 1002,
+                "Val": 1486813638
+            },
+            {
+                "Key": 1003,
+                "Val": 1486974463
+            },
+            {
+                "Key": 1004,
+                "Val": 1484916898
+            }
+        ]
+    },
+    "SKey": "",
+    "SyncCheckKey": {
+        "Count": 11,
+        "List": [
+            {
+                "Key": 1,
+                "Val": 665645225
+            },
+            {
+                "Key": 2,
+                "Val": 665645306
+            },
+            {
+                "Key": 3,
+                "Val": 665645047
+            },
+            {
+                "Key": 11,
+                "Val": 665644505
+            },
+            {
+                "Key": 13,
+                "Val": 665620205
+            },
+            {
+                "Key": 201,
+                "Val": 1487249983
+            },
+            {
+                "Key": 1000,
+                "Val": 1487239562
+            },
+            {
+                "Key": 1001,
+                "Val": 1487239592
+            },
+            {
+                "Key": 1002,
+                "Val": 1486813638
+            },
+            {
+                "Key": 1003,
+                "Val": 1486974463
+            },
+            {
+                "Key": 1004,
+                "Val": 1484916898
+            }
+        ]
+    }
+}
+
+
+{
+    "BaseResponse": {
+        "Ret": 0,
+        "ErrMsg": ""
+    },
+    "AddMsgCount": 1,
+    "AddMsgList": [
+        {
+            "MsgId": "1487238872",
+            "FromUserName": "newsapp",
+            "ToUserName": "@bf6b6641f7479a48f336994e6c01458b93228d59d73edd5dd6ac65ae6efee4e1",
+            "MsgType": 1,
+            "Content": "信息体",
+            "Status": 3,
+            "ImgStatus": 1,
+            "CreateTime": 1487256534,
+            "VoiceLength": 0,
+            "PlayLength": 0,
+            "FileName": "",
+            "FileSize": "",
+            "MediaId": "",
+            "Url": "",
+            "AppMsgType": 0,
+            "StatusNotifyCode": 0,
+            "StatusNotifyUserName": "",
+            "RecommendInfo": {
+                "UserName": "",
+                "NickName": "",
+                "QQNum": 0,
+                "Province": "",
+                "City": "",
+                "Content": "",
+                "Signature": "",
+                "Alias": "",
+                "Scene": 0,
+                "VerifyFlag": 0,
+                "AttrStatus": 0,
+                "Sex": 0,
+                "Ticket": "",
+                "OpCode": 0
+            },
+            "ForwardFlag": 0,
+            "AppInfo": {
+                "AppID": "",
+                "Type": 0
+            },
+            "HasProductId": 0,
+            "Ticket": "",
+            "ImgHeight": 0,
+            "ImgWidth": 0,
+            "SubMsgType": 0,
+            "NewMsgId": 1487238872,
+            "OriContent": ""
+        }
+    ],
+    "ModContactCount": 0,
+    "ModContactList": [],
+    "DelContactCount": 0,
+    "DelContactList": [],
+    "ModChatRoomMemberCount": 0,
+    "ModChatRoomMemberList": [],
+    "Profile": {
+        "BitFlag": 0,
+        "UserName": {
+            "Buff": ""
+        },
+        "NickName": {
+            "Buff": ""
+        },
+        "BindUin": 0,
+        "BindEmail": {
+            "Buff": ""
+        },
+        "BindMobile": {
+            "Buff": ""
+        },
+        "Status": 0,
+        "Sex": 0,
+        "PersonalCard": 0,
+        "Alias": "",
+        "HeadImgUpdateFlag": 0,
+        "HeadImgUrl": "",
+        "Signature": ""
+    },
+    "ContinueFlag": 0,
+    "SyncKey": {
+        "Count": 10,
+        "List": [
+            {
+                "Key": 1,
+                "Val": 665645343
+            },
+            {
+                "Key": 2,
+                "Val": 665645346
+            },
+            {
+                "Key": 3,
+                "Val": 665645344
+            },
+            {
+                "Key": 11,
+                "Val": 665644505
+            },
+            {
+                "Key": 13,
+                "Val": 665620205
+            },
+            {
+                "Key": 1000,
+                "Val": 1487239321
+            },
+            {
+                "Key": 1001,
+                "Val": 1487239592
+            },
+            {
+                "Key": 1002,
+                "Val": 1486813638
+            },
+            {
+                "Key": 1003,
+                "Val": 1486974463
+            },
+            {
+                "Key": 1004,
+                "Val": 1484916902
+            }
+        ]
+    },
+    "SKey": "",
+    "SyncCheckKey": {
+        "Count": 10,
+        "List": [
+            {
+                "Key": 1,
+                "Val": 665645343
+            },
+            {
+                "Key": 2,
+                "Val": 665645346
+            },
+            {
+                "Key": 3,
+                "Val": 665645344
+            },
+            {
+                "Key": 11,
+                "Val": 665644505
+            },
+            {
+                "Key": 13,
+                "Val": 665620205
+            },
+            {
+                "Key": 1000,
+                "Val": 1487239321
+            },
+            {
+                "Key": 1001,
+                "Val": 1487239592
+            },
+            {
+                "Key": 1002,
+                "Val": 1486813638
+            },
+            {
+                "Key": 1003,
+                "Val": 1486974463
+            },
+            {
+                "Key": 1004,
+                "Val": 1484916902
+            }
+        ]
+    }
+}

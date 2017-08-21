@@ -1,0 +1,110 @@
+{
+    "BaseResponse": {
+        "Ret": 0,
+        "ErrMsg": ""
+    },
+    "Count": 1,
+    "ContactList": [
+        {
+            "Uin": 0,
+            "UserName": "filehelper",
+            "NickName": "文件传输助手",
+            "HeadImgUrl": "/cgi-bin/mmwebwx-bin/webwxgeticon?seq=0&username=filehelper&skey=@crypt_dc473b8b_8a706557f240a24be84c9994ccdd2f91",
+            "ContactFlag": 0,
+            "MemberCount": 0,
+            "MemberList": [],
+            "RemarkName": "",
+            "HideInputBarFlag": 0,
+            "Sex": 0,
+            "Signature": "",
+            "VerifyFlag": 0,
+            "OwnerUin": 0,
+            "PYInitial": "WJCSZS",
+            "PYQuanPin": "wenjianchuanshuzhushou",
+            "RemarkPYInitial": "",
+            "RemarkPYQuanPin": "",
+            "StarFriend": 0,
+            "AppAccountFlag": 0,
+            "Statues": 0,
+            "AttrStatus": 0,
+            "Province": "",
+            "City": "",
+            "Alias": "",
+            "SnsFlag": 0,
+            "UniFriend": 0,
+            "DisplayName": "",
+            "ChatRoomId": 0,
+            "KeyWord": "fil",
+            "EncryChatRoomId": "",
+            "IsOwner": 0
+        }
+    ],
+    "SyncKey": {
+        "Count": 1,
+        "List": [
+            {
+                "Key": 1,
+                "Val": 665645217
+            }
+        ]
+    },
+    "User": {
+        "Uin": 2656451315,
+        "UserName": "@d13fd452a4bd89c587be9f0db531f64f67628f9f0523baac0870684e4c1e3be9",
+        "NickName": "Mr.~",
+        "HeadImgUrl": "/cgi-bin/mmwebwx-bin/webwxgeticon?seq=553682449&username=@d13fd452a4bd89c587be9f0db531f64f67628f9f0523baac0870684e4c1e3be9&skey=@crypt_dc473b8b_8a706557f240a24be84c9994ccdd2f91",
+        "RemarkName": "",
+        "PYInitial": "",
+        "PYQuanPin": "",
+        "RemarkPYInitial": "",
+        "RemarkPYQuanPin": "",
+        "HideInputBarFlag": 0,
+        "StarFriend": 0,
+        "Sex": 1,
+        "Signature": "….….….….….….….….….",
+        "AppAccountFlag": 0,
+        "VerifyFlag": 0,
+        "ContactFlag": 0,
+        "WebWxPluginSwitch": 0,
+        "HeadImgFlag": 1,
+        "SnsFlag": 1
+    },
+    "ChatSet": "filehelper,weixin,@0f1af61e36cb96d4019b36c180f6c611ce6cd06c880b1cbcb62ac022242024c3,@@6428d23823daec22fd9bfd7b4cab912a932898672196424d6752c627d02fff9c,@66220e8dbbd898ea73a1b2f03f3b504d,newsapp,@b4ba495c670d04244ba50b6cc8054ec642e83cf2ef7c817e1d631cf7ddd168ba,@50b0f75e69916ae482615fe5c944d006f9ed7d5805685f6ec7962403f1a8c87e,",
+    "SKey": "@crypt_dc473b8b_8a706557f240a24be84c9994ccdd2f91",
+    "ClientVersion": 637862964,
+    "SystemTime": 1487218813,
+    "GrayScale": 1,
+    "InviteStartCount": 40,
+    "MPSubscribeMsgCount": 2,
+    "MPSubscribeMsgList": [
+        {
+            "UserName": "@66220e8dbbd898ea73a1b2f03f3b504d",
+            "MPArticleCount": 3,
+            "MPArticleList": [
+                {
+                    "Title": "路人偷拍、投诉民警当街吃东西，网友炸锅了...",
+                    "Digest": "民警“当街吃东西”浙江衢州水亭门元宵灯会现场，一位执勤民警正往嘴里倒东西——这张照片上网后，网友纷纷猜测民警",
+                    "Cover": "http://mmbiz.qpic.cn/mmbiz_jpg/ya5mjFklNJJficj38GPa396mHiccO9vctLYDtA3WKsWfQ7nx45DEZ7pcFrjFVXlvvKNL9EiakIe085HaV9YoicNyFQ/640?wxtype=jpeg&wxfrom=0",
+                    "Url": "http://mp.weixin.qq.com/s?__biz=MzA4MzMxODkzNQ==&mid=2659777744&idx=1&sn=e889747b6b92513e1ad96e3a1fd367c1&chksm=84841d28b3f3943ed7b7517b6621bcf4fddf244bba1155d567d1e5841e51533ff628856c59d4&scene=0#rd"
+                }
+            ],
+            "Time": 1487170694,
+            "NickName": "苏州公安微警务"
+        },
+        {
+            "UserName": "@57ec0cf7f0763e54ec50c1a8ab93ebad",
+            "MPArticleCount": 1,
+            "MPArticleList": [
+                {
+                    "Title": "上班后的第一个节就酱紫过~~",
+                    "Digest": "2017年上班后的第7个工作日，我们迎来了元宵节。在这个风花雪夜的节日，怎么能少了灯笼、汤圆、灯谜呢? Fo",
+                    "Cover": "http://mmbiz.qpic.cn/mmbiz_jpg/uroKbD3UGVSLt6VQ4JSic9GjvOeGaEE2LnqhKylO2WbpNiaECQ6tCWGFP29QZl8hPBFnANaCmxclGV9Hia0nfM5uQ/640?wxtype=jpeg&wxfrom=0",
+                    "Url": "http://mp.weixin.qq.com/s?__biz=MzIyMDAzMzA5Mg==&mid=2650766749&idx=1&sn=03a844d7cd0308690f95ec904898e0e1&chksm=8fd9e4b6b8ae6da07cb7f961c1aeb6ec7ffd791548e9a49755fb50fe85bef9f6b6c75d3904b2&scene=0#rd"
+                }
+            ],
+            "Time": 1487080793,
+            "NickName": "同程研发中心"
+        }
+    ],
+    "ClickReportInterval": 600000
+}

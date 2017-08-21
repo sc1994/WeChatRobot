@@ -1,0 +1,186 @@
+{
+    "BaseResponse": {
+        "Ret": 1102,
+        "ErrMsg": ""
+    },
+    "AddMsgCount": 0,
+    "AddMsgList": [],
+    "ModContactCount": 0,
+    "ModContactList": [],
+    "DelContactCount": 0,
+    "DelContactList": [],
+    "ModChatRoomMemberCount": 0,
+    "ModChatRoomMemberList": [],
+    "Profile": {
+        "BitFlag": 0,
+        "UserName": {
+            "Buff": ""
+        },
+        "NickName": {
+            "Buff": ""
+        },
+        "BindUin": 0,
+        "BindEmail": {
+            "Buff": ""
+        },
+        "BindMobile": {
+            "Buff": ""
+        },
+        "Status": 0,
+        "Sex": 0,
+        "PersonalCard": 0,
+        "Alias": "",
+        "HeadImgUpdateFlag": 0,
+        "HeadImgUrl": "",
+        "Signature": ""
+    },
+    "ContinueFlag": 0,
+    "SyncKey": {
+        "Count": 0,
+        "List": []
+    },
+    "SKey": "",
+    "SyncCheckKey": {
+        "Count": 0,
+        "List": []
+    }
+}{
+    "BaseRequest": {
+        "Uin": "2656451315",
+        "Sid": "zPpdaudmcCK1Eor6",
+        "Skey": "@crypt_dc473b8b_cad17859bf84cd9749b541ad10c6491d",
+        "DeviceID": "e155590153985983"
+    },
+    "SyncKey": {
+        "Count": 4,
+        "List": [
+            {
+                "Key": 1,
+                "Val": 665645225
+            },
+            {
+                "Key": 2,
+                "Val": 665645311
+            },
+            {
+                "Key": 3,
+                "Val": 665645047
+            },
+            {
+                "Key": 1000,
+                "Val": 0
+            }
+        ]
+    },
+    "rr": -115085041
+}{
+    "BaseRequest": {
+        "Uin": 2656451315,
+        "Sid": "fq2RfNh7IYvM0SSE",
+        "Skey": "@crypt_dc473b8b_74f84e7360404097161595f9cc270756",
+        "DeviceID": "e155590153985983"
+    },
+    "SyncKey": {
+        "Count": 11,
+        "List": [
+            {
+                "Key": 1,
+                "Val": 665645225
+            },
+            {
+                "Key": 2,
+                "Val": 665645305
+            },
+            {
+                "Key": 3,
+                "Val": 665645047
+            },
+            {
+                "Key": 11,
+                "Val": 665644505
+            },
+            {
+                "Key": 13,
+                "Val": 665620205
+            },
+            {
+                "Key": 201,
+                "Val": 1487249902
+            },
+            {
+                "Key": 1000,
+                "Val": 1487239562
+            },
+            {
+                "Key": 1001,
+                "Val": 1487239592
+            },
+            {
+                "Key": 1002,
+                "Val": 1486813638
+            },
+            {
+                "Key": 1003,
+                "Val": 1486974463
+            },
+            {
+                "Key": 1004,
+                "Val": 1484916898
+            }
+        ]
+    },
+    "rr": -1191300384
+}
+
+
+
+
+
+
+
+
+
+{
+    "BaseRequest": {
+        "Uin": "2656451315",
+        "Sid": "B/I1P7oYMQOldKb6",
+        "Skey": "@crypt_dc473b8b_2fb79eaed81602b8f365d7c77c962f27",
+        "DeviceID": "e155590153985983"
+    },
+    "SyncKey": {
+        "Count": 4,
+        "List": [
+            {
+                "Key": 1,
+                "Val": 665645225
+            },
+            {
+                "Key": 2,
+                "Val": 665645314
+            },
+            {
+                "Key": 3,
+                "Val": 665645047
+            },
+            {
+                "Key": 1000,
+                "Val": 1487239562
+            }
+        ]
+    },
+    "rr": -583527841
+}
+
+
+/*
+/cgi-bin/mmwebwx-bin/synccheck
+?r=1487255002311
+&skey=@crypt_dc473b8b_b9a4b20b376c5c48d0179a6af0c2a95f
+&sid=gnL9/tNDAC5aT6Og
+&uin=2656451315
+&deviceid=e998262737312573
+&synckey=1_665645225|2_665645336|3_665645047|1000_1487239562
+&_=1487254718659
+*/
+
+///cgi-bin/mmwebwx-bin/webwxsync?sid=gnL9/tNDAC5aT6Og&skey=@crypt_dc473b8b_b9a4b20b376c5c48d0179a6af0c2a95f&lang=zh_CN&pass_ticket=3sJhvFG1j6ZyUaWBzSHBA%252FSV%252FeGJ%252Bx02f9UI7ilgI%252B5lFMIsR3hwIXAqsl4Ap8Pk
